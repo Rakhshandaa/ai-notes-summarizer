@@ -37,4 +37,4 @@ python app_multi.py
 ```
 
 ## Author
-Pari – B.Tech CSE (AI & ML)
+Rakhshanda Yadav – B.Tech CSE (AI & ML)
